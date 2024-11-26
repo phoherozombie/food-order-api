@@ -1,0 +1,5 @@
+# Ẩn thư mục node_modules
+node_modules/
+
+# Giữ lại file .env
+!.env
